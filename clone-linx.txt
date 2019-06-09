@@ -1,0 +1,18 @@
+https://github.com/JCBrown602/pyimagesearch.com.git
+
+git@github.com:JCBrown602/pyimagesearch.com.git
+
+
+
+SOURCE: 
+https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1
+
+TRUE SOURCE (for updateURL):
+https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/pyimagesearch.com.user.js
+  
+Gist link goes to that particular commit:
+https://gist.github.com/<USER>/<GIST ID>/raw/<GIST COMMIT ID>/<FILE NAME>	https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/f43da1a27469af9d9855eff897f54044c5054987/pyimagesearch.com.user.js
+
+This goes to the latest version:
+https://gist.github.com/<USER>/<GIST ID>/raw/<FILE NAME>  // goes to latest version!
+https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/pyimagesearch.com.user.js
