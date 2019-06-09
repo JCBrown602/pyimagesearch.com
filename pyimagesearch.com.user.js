@@ -5,7 +5,7 @@
 // @version 2.2
 // @match https://www.pyimagesearch.com/*
 // @updateURL 	https://github.com/JCBrown602/pyimagesearch.com/raw/master/pyimagesearch.com.user.js
-// @downloadURL https://github.com/JCBrown602/pyimagesearch.com.git
+// @downloadURL https://github.com/JCBrown602/pyimagesearch.com/raw/master/pyimagesearch.com.user.js
 // @license MIT
 // @supportURL https://github.com/JCBrown602/pyimagesearch.com/issues
 // @compatible opera
