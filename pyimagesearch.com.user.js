@@ -3,15 +3,15 @@
 // @namespace https://userscripts.org/scripts/show/######
 // @description Turns off the annoying sidebar carousel. Sorry Adrian.
 // @author Jason | jetcanlabs.com
-// @version 0.3
+// @version 0.1
 // @encoding utf-8
-// @license https://creativecommons.org/licenses/by-sa/4.0/
-// @include https://www.pyimagesearch.com/*
 // @grant none
-// @icon https://raw.github.com/jcbrown602/pyimagesearch.com.user.js/master/cat.ico
+// @include https://www.pyimagesearch.com/*
+// @license https://creativecommons.org/licenses/by-sa/4.0/
+// @icon https://raw.github.com/jcbrown602/pyimagesearch.com.user.js/master/icon.png
 // @homepage https://github.com/jcbrown602/pyimagesearch.com.user.js/
-// @updateURL https://raw.githubusercontent.com/jcbrown602/pyimagesearch.com.user.js/master/pyimagesearch.com.user.js
-// @downloadURL https://raw.githubusercontent.com/jcbrown602/pyimagesearch.com.user.js/master/pyimagesearch.com.user.js
+// @updateURL https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/9a36914303577cfd3c72f1b91615a3f689e7cfb4/pyimagesearch.com.user.js
+// @downloadURL https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/9a36914303577cfd3c72f1b91615a3f689e7cfb4/pyimagesearch.com.user.js
 // ==/UserScript==
 
 var query = "pyimg_gurus_carousel";
