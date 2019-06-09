@@ -10,7 +10,7 @@
 // @license https://creativecommons.org/licenses/by-sa/4.0/
 // @icon https://gist.githubusercontent.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/f84b755a8f16310cde99d679fcdef781d2b64435/cat.ico
 // @homepage https://github.com/jcbrown602/pyimagesearch.com.user.js/
-// @updateURL https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/9a36914303577cfd3c72f1b91615a3f689e7cfb4/pyimagesearch.com.user.js
+// @updateURL https://raw.githubusercontent.com/JCBrown602/nocarousel//pyimagesearch.com.user.js
 // @downloadURL https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/9a36914303577cfd3c72f1b91615a3f689e7cfb4/pyimagesearch.com.user.js
 // ==/UserScript==
 
