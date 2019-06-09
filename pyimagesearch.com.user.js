@@ -7,4 +7,4 @@
 alert('test');
 
 var query = document.getElementById("pyimg_gurus_carousel");
-query.style.disply = 'none';
+query.style.display = 'none';
