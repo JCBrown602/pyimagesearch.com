@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name nocarousel on pyimagesearch.com (Opera) | Jason
 // @namespace https://userscripts.org/scripts/show/######
-// @description Turns off the annoying sidebar carousel. Sorry Adrian.
+// @description Turns off the annoying sidebar carousel. Sorry Adrian. The script finds a <div> with the ID of "pyimg_gurus_carousel" and assigns it a new ID of "nocarousel", thus preventing the carousel function. Script adds innerHTML as a positive visual.
 // @author Jason | jetcanlabs.com
-// @version 0.2
+// @version 1.0
 // @encoding utf-8
 // @grant none
 // @include https://www.pyimagesearch.com/*
@@ -14,10 +14,9 @@
 // @downloadURL https://gist.github.com/JCBrown602/35733862f9b949614a69f42e2ef813f1/raw/9a36914303577cfd3c72f1b91615a3f689e7cfb4/pyimagesearch.com.user.js
 // ==/UserScript==
 
-var query = "pyimg_gurus_carousel";
+// Browser developer tools "inspect element" gives ID of offending <div>
+  var query = "pyimg_gurus_carousel";
+  var element = document.getElementById(query);
 
-function removeElement(query) {
-    // Removes an element from the document
-    var element = document.getElementById(query);
-    element.parentNode.removeChild(element);
-}
+  document.getElementById(query).id = "nocarousel";
+  document.getElementById("nocarousel").innerHTML = "nocarousel: carousel stopped by monkeys.";
