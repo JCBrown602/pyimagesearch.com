@@ -3,7 +3,7 @@
 // @namespace https://userscripts.org/scripts/show/######
 // @description Turns off the annoying sidebar carousel. Sorry Adrian.
 // @author Jason | jetcanlabs.com
-// @version 0.1
+// @version 0.2
 // @encoding utf-8
 // @grant none
 // @include https://www.pyimagesearch.com/*
