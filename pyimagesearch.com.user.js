@@ -1,11 +1,23 @@
 // ==UserScript==
-// @name New Script
-// @namespace Violentmonkey Scripts
+// @name nocarousel on pyimagesearch.com (Opera) | Jason
+// @namespace https://userscripts.org/scripts/show/######
+// @description Turns off the annoying sidebar carousel. Sorry Adrian.
+// @author Jason | jetcanlabs.com
+// @version 0.3
+// @encoding utf-8
+// @license https://creativecommons.org/licenses/by-sa/4.0/
+// @include https://www.pyimagesearch.com/*
 // @grant none
-// @version 0.1
+// @icon https://raw.github.com/jcbrown602/pyimagesearch.com.user.js/master/cat.ico
+// @homepage https://github.com/jcbrown602/pyimagesearch.com.user.js/
+// @updateURL https://raw.githubusercontent.com/jcbrown602/pyimagesearch.com.user.js/master/pyimagesearch.com.user.js
+// @downloadURL https://raw.githubusercontent.com/jcbrown602/pyimagesearch.com.user.js/master/pyimagesearch.com.user.js
 // ==/UserScript==
 
-alert('test');
+var query = "pyimg_gurus_carousel";
 
-var query = document.getElementById("pyimg_gurus_carousel");
-query.style.display = 'none';
+function removeElement(query) {
+    // Removes an element from the document
+    var element = document.getElementById(query);
+    element.parentNode.removeChild(element);
+}
