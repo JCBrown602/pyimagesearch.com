@@ -2,6 +2,7 @@
 // @name New Script
 // @namespace Violentmonkey Scripts
 // @grant none
+// @version 0.1
 // ==/UserScript==
 
 alert('test');
