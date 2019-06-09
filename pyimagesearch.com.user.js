@@ -23,3 +23,4 @@
 
   element.id = "nocarousel";
   element.innerHTML = "nocarousel: carousel stopped by monkeys.";
+  element.css = "background-position: 0px 20px !important;"
