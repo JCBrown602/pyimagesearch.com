@@ -8,8 +8,8 @@
 // @downloadURL https://github.com/JCBrown602/pyimagesearch.com/raw/master/pyimagesearch.com.user.js
 // @license MIT
 // @supportURL https://github.com/JCBrown602/pyimagesearch.com/issues
-// @compatible opera
-// @compatible chrome
+// @compatible opera Version:60.0.3255.151
+// @compatible chrome Version 75.0.3770.80 (Official Build) (64-bit)
 // @author Jason | jetcanlabs.com
 // @encoding utf-8
 // @grant none
